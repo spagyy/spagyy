@@ -2,3 +2,7 @@
 <h3 align="center">✌| Organizátor eventů | 💻 Student IT | 📸 Vroom Vroom | 📱 Social Manager</h3>
 
 ---
+
+### 👑 | O MNĚ
+- 🎓 Studuji **informační technologie** na **ORBISU**
+- 📝 Aktuálně se zaměřuji na **tvorbu moderních webů** a **grafiky**
