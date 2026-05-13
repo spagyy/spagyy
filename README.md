@@ -1,5 +1,5 @@
 <h1 align="center">Ahoj, jsem <span style="color:#FF04B4;0">Špagy</span></h1>
-<h3 align="center">💻 Student IT | ✌| Organizátor eventů | 📸 Vroom Vroom | 📱 Social Manager</h3>
+<h3 align="center">💻 Student IT | ✌ Organizátor eventů | 📸 Vroom Vroom | 📱 Social Manager</h3>
 
 ---
 
