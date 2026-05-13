@@ -6,3 +6,9 @@
 ### 👑 | O MNĚ
 - 🎓 Studuji **informační technologie** na **ORBISU**
 - 📝 Aktuálně se zaměřuji na **tvorbu moderních webů** a **grafiky**
+- 🙌 Cílím na Larawel, Tailwind CSS, HTML
+
+### 🧰 | NÁSTROJE CO POUŽÍVÁM
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,mysql,py,laravel,lua,php,windows,wordpress" />
+</p>
