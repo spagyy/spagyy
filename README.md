@@ -6,7 +6,7 @@
 ### 👑 | O MNĚ
 - 🎓 Studuji **informační technologie** na **ORBISU**
 - 📝 Aktuálně se zaměřuji na **tvorbu moderních webů** a **grafiky**
-- 🙌 Cílím na Larawel, Tailwind CSS, HTML
+- 🙌 Cílím na **Larawel, Tailwind CSS, HTML**
 
 ### 🧰 | NÁSTROJE CO POUŽÍVÁM
 <p align="center">
