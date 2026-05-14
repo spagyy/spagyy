@@ -14,4 +14,5 @@
 </p>
 
 ### 🪄 | Tvorbu grafiky
-### 🖇️ | Ostatní systémy 
+### 🖇️ | Ostatní systémy
+<h2>Pojďme se spojit!</h2>
