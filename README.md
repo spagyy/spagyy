@@ -15,4 +15,4 @@
 
 ### 🪄 | Tvorbu grafiky
 ### 🖇️ | Ostatní systémy
-<h2>Pojďme se spojit!</h2>
+<h2 align="center">Pojďme se spojit!</h2>
