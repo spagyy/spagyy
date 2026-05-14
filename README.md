@@ -14,5 +14,5 @@
 </p>
 
 ### 🪄 | Tvorbu grafiky
-### 🖇️ | Ostatní systémy
+### 🖇️ | Ostatní nástroje
 <h2 align="center">Pojďme se spojit!</h2>
