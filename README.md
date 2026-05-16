@@ -14,5 +14,8 @@
 </p>
 
 ### 🪄 | Tvorbu grafiky
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,indesign" />
+</p>
 ### 🖇️ | Ostatní nástroje
 <h2 align="center">Pojďme se spojit!</h2>
