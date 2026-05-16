@@ -18,4 +18,7 @@
   <img src="https://skillicons.dev/icons?i=photoshop,illustrator,indesign" />
 </p>
 ### 🖇️ | Ostatní nástroje
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows" />
+</p>
 <h2 align="center">Pojďme se spojit!</h2>
