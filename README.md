@@ -10,7 +10,7 @@
 
 ### 🧰 | Tvorbu webů
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,git,github,mysql,py,laravel,lua,php,windows,wordpress" />
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,mysql,py,laravel,lua,php,wordpress,tailwind" />
 </p>
 
 ### 🪄 | Tvorbu grafiky
