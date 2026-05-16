@@ -10,7 +10,7 @@
 
 ### 🧰 | Tvorbu webů
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,git,github,mysql,py,laravel,lua,php,wordpress,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,mysql,py,laravel,lua,php,wordpress,tailwind,webstorm,vercel" />
 </p>
 
 ### 🪄 | Tvorbu grafiky
@@ -20,6 +20,6 @@
 
 ### 🖇️ | Ostatní nástroje
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=windows,discord,gmail,instagram,spotify,powershell" />
 </p>
 <h2 align="center">Pojďme se spojit!</h2>
